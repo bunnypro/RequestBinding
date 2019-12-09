@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Bunnypro.RequestBinding.Samples.WebApi
+namespace Bunnypro.RequestBinding.Sample
 {
     public class Startup
     {
